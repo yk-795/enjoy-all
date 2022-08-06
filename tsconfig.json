@@ -30,6 +30,7 @@
   },
   "include": [
     "src/**/*.ts",
+    "types/**/*.ts",
     "src/**/*.tsx",
     "src/**/*.vue",
     "tests/**/*.ts",
